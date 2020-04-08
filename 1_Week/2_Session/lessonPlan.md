@@ -1,15 +1,22 @@
-# Week One: Thursday
-## Housekeeping
-- GitHub Org Clarification
+# Week One: Wednesday
+
 ## Arrays/Strings/Objects
 - Arrays Review
+    - Fundamentals
+    - Built-in Methods
     - Reverse Array
-    - What determines an "optimal" solution?
-    - Big O Discussion
+
+- Strings Review
+    - Fundamentals
+    - Built-in Methods
+    - Reverse String
+
 - Objects Review
+    - Fundamentals
     - Add keys
     - Check if has key
     - Problem Solver: "map"
+
 - Challenges
 ```js
 function characterCount(word) {
