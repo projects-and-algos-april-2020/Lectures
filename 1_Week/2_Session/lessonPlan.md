@@ -14,7 +14,7 @@
 ```js
 function characterCount(word) {
     // return object with the characters as Keys
-    // and the number of occurences of that character as values
+    // and the number of occurrences of that character as values
     // eg.
     // "apple" =>
     // {"a": 1, "p": 2, "l": 1, "e": 1}
