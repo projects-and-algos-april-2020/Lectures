@@ -9,6 +9,7 @@ console.log(obj.age || obj["age"]) // prints out the value of the specific key
 daysAtHome and 15
 
 obj["daysAtHome"] = 15; // create a new key and value
+
 object["daysAtHome"] += 1; // change value of a key
 
 ## BRACKET vs DOT NOTATION

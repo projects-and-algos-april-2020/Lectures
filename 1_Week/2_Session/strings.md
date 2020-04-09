@@ -10,9 +10,9 @@ var str = "hello there";
 str[2] = "E" // CANNOT DO THIS!!
 
 ## BUILT-IN METHODS
-split() - takes a string and returns an array of characters
-toLower() - changes characters to lowercase
-toUpper() - changes characters to uppercase
+- split() - takes a string and returns an array of characters
+- toLower() - changes characters to lowercase
+- toUpper() - changes characters to uppercase
 
 ## REVERSE STRING
 ``` js

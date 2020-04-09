@@ -21,13 +21,13 @@ arr.length += 3; // this extends the length of an array without "pushing". Same 
 
 ## BUILT-IN METHODS
 
-pop() - removes last item and RETURNS it
-push(val) - adds item to array at the end
-splice(start,end) - take out a chunk of the array and return it to you
-slice(start,end) - remove items in array and return new array wthout items
-map() - ??? go check it out!
-insert() - ??? go check it out!
-join(str) - ??? go check it out!
+- pop() - removes last item and RETURNS it
+- push(val) - adds item to array at the end
+- splice(start,end) - take out a chunk of the array and return it to you
+- slice(start,end) - remove items in array and return new array wthout items
+- map() - ??? go check it out!
+- insert() - ??? go check it out!
+- join(str) - ??? go check it out!
 
 
 ## REVERSE ARRAY
