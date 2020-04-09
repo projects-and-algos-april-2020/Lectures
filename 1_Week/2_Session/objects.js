@@ -1,5 +1,0 @@
-// FUNDAMENTALS
-
-// ADD KEYS
-
-// CHECK THE KEY
