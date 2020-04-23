@@ -20,6 +20,12 @@ class SinglyLinkedList {
         // 3) now we can safely promote newNode to be head node
         this.head = newNode;
     }
+    size(node=this.head) {
+        if(node === null) {
+            return 0;
+        }
+        return 1 + this.size(node.next);
+    }
     isEmpty() {
         return this.head === null;
     }
@@ -98,3 +104,4 @@ myList.add(5);
 myList.addBack(100);
 myList.removeValue(10);
 myList.displayValues();
+var sizeOfMyList = myList.size();
